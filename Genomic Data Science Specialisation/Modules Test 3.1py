@@ -1,0 +1,8 @@
+def count1(dna, base):
+        i=0
+        for c in dna:
+            if c == base:
+            i+=1
+        return i
+
+count1("ctguctguacgu","c") 

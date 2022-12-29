@@ -1,1 +1,2 @@
 # Python-Bioinformatics_Study
+This section uses the Coursera course Genomic Data Science Specialisation and Python for Biologists to study skills for bioinformatics. This is a topic I find interesting and I'm enjoying developing skills by self study.
